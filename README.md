@@ -60,17 +60,30 @@ I enjoy building **backend systems**, **simulations**, **embedded applications**
 - Focused on **performance, visualization**, and **configurable rulesets**.
 - Great example of my interest in **systems thinking** and **simulations**.
 
-### 🛒 E-Commerce Website
-- Full-stack **e-commerce platform** with product listings and basic cart/ordering flows.
-- Highlights my experience in **web applications**, **backend APIs**, and **data modeling**.
+### 🤖 AI Anime Chatbot
+**Repository:** `ai-anime-chatbot`
 
-### 🎮 Unity 2D Platformer Game
-- Designed and developed a **2D platformer** using **Unity**.
-- Implemented **player controls, physics, level design**, and basic game logic.
+- Developed an **AI-powered chatbot** that answers anime-related questions and recommendations.
+- Processes natural language queries to generate **context-aware responses**.
+- Demonstrates experience in **AI integration**, **backend logic**, and **conversational systems**.
 
-### 🚀 Space Shooter Game (C# Windows Forms)
-- Built a **space shooter** game using **C# Windows Forms**.
-- Demonstrates skills in **game loops, collision detection**, and **desktop UI**.
+---
+
+### 📍 Device Tracking & Embedded Monitoring System
+**Repository:** `embedded-device-tracking-system`
+
+- Built a **user-consented tracking system** combining a mobile application with a web-based dashboard.
+- Enables monitored device data to be **securely collected, transmitted, and visualized remotely**.
+- Highlights skills in **embedded systems**, **system-level architecture**, and **full-stack integration**.
+
+---
+
+### 🧠 Embedded Biosignal Processing & Analysis
+**Repository:** `embedded-biosignal-processing`
+
+- Implemented a **biosignal processing pipeline** for simulated signals such as ECG and PPG.
+- Applied **digital signal processing techniques** including filtering and frequency analysis.
+- Demonstrates strengths in **embedded-oriented programming**, **DSP fundamentals**, and **systems modeling**.
 
 > <span class="hljs-emphasis">_You can explore more in my pinned repositories below._</span>
 
