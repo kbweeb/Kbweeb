@@ -7,14 +7,19 @@ I enjoy building **backend systems**, **simulations**, **embedded applications**
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 **Computer Engineering** @ KNUST (Class of **2027**)
 - 💼 **Software / Systems Intern** at **Apex Bank Ghana**
   - Worked with **C#**, **ASP.NET Core**, and **enterprise-style backend systems**
+- 🌐 **IoT Testing Engineer Intern** at **IoT Network Hub Ghana**
+  - Tested and validated **IoT devices and networked systems**
+  - Worked with **sensors, connectivity, and system reliability**
+  - Gained hands-on experience with **real-world IoT deployments**
 - 🔧 Experience spanning:
   - **Backend development** (APIs, services, data handling)
   - **Systems programming & embedded systems**
+  - **IoT systems & device testing**
   - **Simulations & modeling**
   - **Game development** (Unity & C#)
 - 🎯 Interested in:
@@ -22,9 +27,8 @@ I enjoy building **backend systems**, **simulations**, **embedded applications**
   - **Systems Programming**
   - **Embedded Systems**
   - **Game Development**
-
+  
 ---
-
 ## 🛠️ Languages & Tools
 
 ### Languages
