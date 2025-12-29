@@ -74,30 +74,30 @@ I enjoy building **backend systems**, **simulations**, **embedded applications**
 
 ## 📊 GitHub Stats
 
-<span class="hljs-tag"><<span class="hljs-name">div align="center"></span></span>
+<div align="center">
 
-<span class="hljs-tag"><<span class="hljs-name">img src="https://github-readme-stats.vercel.app/api?username=kbweeb&show_icons=true&theme=github_dark&hide_border=true" alt="Kwabena's GitHub stats" /></span></span>
+<img src="https://github-readme-stats.vercel.app/api?username=kbweeb&show_icons=true&theme=github_dark&hide_border=true" 
+alt="Kwabena's GitHub stats" />
 
-<span class="hljs-tag"><<span class="hljs-name">br/></span></span>
+<br/>
 
-<span class="hljs-tag"><<span class="hljs-name">img src="https://github-readme-streak-stats.herokuapp.com/?user=kbweeb&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></span></span>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kbweeb&theme=github-dark-blue&hide_border=true" 
+alt="GitHub Streak" />
 
-<span class="hljs-tag"><<span class="hljs-name">br/></span></span>
+<br/>
 
-<span class="hljs-tag"><<span class="hljs-name">img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbweeb&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" /></span></span>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbweeb&layout=compact&theme=github_dark&hide_border=true" 
+alt="Top Languages" />
 
-<span class="hljs-tag"></<span class="hljs-name">div></span></span>
+</div>
 
 ---
 
 ## 🌍 Where to Find Me
 
-- 💼 **LinkedIn**: _[Add your LinkedIn URL here]_  
-- 🌐 **Portfolio / Website**: _[Add your portfolio link here]_  
-- 📫 **Email**: _[your.email@example.com]_  
-
----
-
+- 💼 **LinkedIn**: https://linkedin.com/in/YOUR-USERNAME  
+- 🌐 **Portfolio**: https://kwabena-boateng.vercel.app  
+- 📫 **Email**: kbweeb.01@gmail.com
 Thanks for visiting my profile — feel free to **explore my repositories**, **open an issue**, or **reach out** if you’d like to collaborate!
 Show less
 Scroll 
